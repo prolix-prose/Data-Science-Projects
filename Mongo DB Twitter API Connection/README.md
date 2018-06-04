@@ -7,4 +7,4 @@ You supply a dictionary of Words and let the listener collect tweets with a rate
 JSON
 ### MongoDB
 Store the Twitter data in MongoDB and query it using PyMongo connection to the DB<br>
-https://docs.mongodb.com/manual/core/crud/ for more info
+https://docs.mongodb.com/manual/core/crud/ for more info on queries
