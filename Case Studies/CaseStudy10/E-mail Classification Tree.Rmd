@@ -1,5 +1,5 @@
 ---
-title: "JHerrera_MPayne_RLagrois_week10casestudySec403"
+title: "E-mail Classification Tree"
 author: "Joshua Herrera, Matthew Payne, Remy Lagrois"
 date: "March 20, 2018"
 output:
